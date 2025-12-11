@@ -19,3 +19,4 @@ git merge branch_name -> Merge a branch into the current branch
 git pull origin branch_name -> Pull the changes from the remote repository
 git fetch origin branch_name -> Fetch the changes from the remote repository
 git clone url -> Clone a repository
+//merge conflict should happen
