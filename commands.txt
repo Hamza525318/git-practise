@@ -1,0 +1,9 @@
+git init -> Initialise an empty repository
+git add file_name -> Add file to staging area
+git add . -> Add all modified , untracked files to staging area
+git commit -m "message" -> Commit the changes to the repository
+git status -> Check the status of the repository
+git log -> Check the commit history
+git diff -> Check the difference between the working directory and the staging area
+git diff --staged -> Check the difference between the staging area and the repository
+git diff HEAD -> Check the difference between the working directory and the repository
