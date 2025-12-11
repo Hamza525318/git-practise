@@ -7,3 +7,11 @@ git log -> Check the commit history
 git diff -> Check the difference between the working directory and the staging area
 git diff --staged -> Check the difference between the staging area and the repository
 git diff HEAD -> Check the difference between the working directory and the repository
+git restore file_name -> Discard the changes in the working directory
+git restore --staged file_name -> Unstage the file
+git branch -> Check the current branch
+git branch branch_name -> Create a new branch
+git checkout branch_name -> Switch to a branch
+git merge branch_name -> Merge a branch into the current branch
+git remote add origin url -> Add a remote repository
+git push origin branch_name -> Push the changes to the remote repository
